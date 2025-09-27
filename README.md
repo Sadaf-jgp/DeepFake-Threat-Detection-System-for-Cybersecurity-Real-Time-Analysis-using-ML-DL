@@ -1,0 +1,2 @@
+# DeepFake-Threat-Detection-System-for-Cybersecurity-Real-Time-Analysis-using-ML-DL
+This project focuses on building a DeepFake Threat Detection System that leverages Machine Learning (ML) and Deep Learning (DL) models to identify manipulated media content in real time. With the growing misuse of AI-generated fake videos and images, such systems are critical for ensuring cybersecurity, digital forensics, and online trust.
